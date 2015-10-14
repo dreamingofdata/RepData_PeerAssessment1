@@ -216,4 +216,5 @@ ggplot(average_steps_by_interval, aes(x=interval, y=average_steps , group=weekda
 ```
 
 ![](PA1_template_files/figure-html/unnamed-chunk-9-1.png) 
+
 It does appear as if the subject were more active overall on the weekend, except for the 7 - 9 am time range wear the subject is significantly more active on weekdays (perhaps walks to work?)
